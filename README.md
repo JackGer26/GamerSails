@@ -2,7 +2,7 @@
 
 This code fetches discounted game data from an API, displays a sorted list of game titles, and shows detailed information about a selected game when clicked.
 
-![GamerSails Home Page](http://placecorgi.com/1200/650)
+![GamerSails Home Page](https://github.com/JackGer26/GamerSails/blob/main/GamerSails.PNG?raw=true)
 
 **Link to project:** https://gamersails.netlify.app/
 
